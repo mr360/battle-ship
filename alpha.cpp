@@ -1,4 +1,4 @@
 int main() {
-      std::cout << "Helloworld, this is John and you are in Alpha cpp" << std::endl;
+      std::cout << "Beta World" << std::endl;
       return 0;
   }
